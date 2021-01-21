@@ -12,7 +12,7 @@ labels:
   - HTML
   - CSS
   - Chrome Extension
-summary: A simple to-do list extension for google chrome. 
+summary: A simple to-do list extension for Google Chrome. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/to-do-list-apps.png">
