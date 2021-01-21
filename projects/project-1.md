@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/ics314p1.png
 title: Plant vs. Pineapple
-permalink: projects/micromouse
+permalink: projects/plantvspineapple
 # All dates must be YYYY-MM-DD format!
 date: 2019-12-08
 labels:
