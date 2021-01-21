@@ -1,61 +1,24 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/crhome.jpg
+title: To-Do List Extension for Chrome
+permalink: projects/chromeextension
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2021-01-10
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Visual Studio Code
+  - Javascript
+  - HTML
+  - CSS
+  - Chrome Extension
+summary: A simple to-do list extension for google chrome. 
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<img class="ui medium right floated rounded image" src="../images/to-do-list-apps.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+I created a simple to-do list extension for google chrome. I decided to go with creating a chrome extension because there are many sources and tutorials to get started. The idea of a to-do list came to mind when I found myself losing the piece of paper of where I write my tasks down for the day. Although there are many to-do list extensions in the Chrome Web Store, I wanted to learn new things, such as Javascript, HTML, and CSS. I also took this oppurtunity as the chance to prepare for ICS 314 as the class teaches Javascript.
 
-To give you a flavor of the game, here is an excerpt from one run:
+During this process, I learned how all three of these scripting langauges work together. Javascript is needed to do all the actions in order to have something to function, while HTML is in charge of displaying text, images, and links. And CSS makes both of these come together by adding in an interesting style to appeal to users. Educating myself with these three things at the same time was overwhelming at first but I learned the basics one step at a time. I believe that all three of these langauges are needed in order to successfully complete this project. 
 
-<hr>
-
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+This extension allows the user to click on the extension icon to add, delete, and check off completed tasks. To further improve this project, I hope to have more of an appealing user-interface and design by devloping my skills in CSS. I also hope to add more features like sorting tasks in order of priority as well as the option to create a to-do list for the upcoming days. 
