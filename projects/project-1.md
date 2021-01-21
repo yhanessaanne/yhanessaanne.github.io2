@@ -9,6 +9,7 @@ date: 2019-12-08
 labels:
   - Java
   - EZJava
+  - Eclipse
   - Medibang
 summary: A simple game inspired by Plants vs Zombies. This was my final project for ICS 111.
 ---
