@@ -22,3 +22,5 @@ I created a simple to-do list extension for Google Chrome. I decided to go with 
 During this process, I learned how all three of these scripting langauges work together. Javascript is needed to do all the actions in order to have something to function, while HTML is in charge of displaying text, images, and links. And CSS makes both of these come together by adding in an interesting style to appeal to users. Educating myself with these three things at the same time was overwhelming at first but I learned the basics one step at a time. I believe that all three of these langauges are needed in order to successfully complete this project. 
 
 This extension allows the user to click on the extension icon to add, delete, and check off completed tasks. To further improve this project, I hope to have more of an appealing user-interface and design by devloping my skills in CSS. I also hope to add more features like sorting tasks in order of priority as well as the option to create a to-do list for the upcoming days. 
+
+Source code to be made available soon.
