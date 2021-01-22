@@ -28,3 +28,5 @@ This game is coded in Java with the help of <a href="http://www2.hawaii.edu/~dyl
 I was also in charge of the graphics of the game. For this, I used Medibang as our main tool for digital drawing. I have no art skills whatsoever, therefore most of the artwork was traced. Another takeaway from this project was collaboration. It taught me how to effectively communicate with my partner by planning out the tasks of each person, scheduling times to meet up, and helping each other out.
 
 A demonstration of Plant vs. Pineapple can be found <a href="https://youtu.be/923Q8Hmbrxg">here</a>
+
+Source code to be made available soon.
