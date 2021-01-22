@@ -88,20 +88,6 @@
   ],
   "volunteer": [
     {
-      "organization": "Key Club International",
-      "website": "https://www.keyclub.org/",
-      "position": "Member",
-      "startDate": "2017",
-      "endDate": "2019",
-      "summary": "Volunteered for various community projects",
-      "highlights": [
-        "Elementary School STEM Nights",
-        "Supervise elementary school students after school",
-        "Beach Clean Ups",
-        "Bell Ringing for Salvation Army"
-        ]
-    },
-    {
       "organization": "The Association for Computing Machinery at the University of Hawaii at Manoa (ACM@Manoa)",
       "website": "https://acmanoa.github.io/",
       "position": "Member",
@@ -124,9 +110,29 @@
       "startDate": "2019",
       "endDate": "Present",
       "summary": "Test and provide feedback and review on a company's website or app. I have to share my thoughts and opinions to help further improve the company's user experience",        
+    },
+    {
+      "organization": "Key Club International",
+      "website": "https://www.keyclub.org/",
+      "position": "Member",
+      "startDate": "2017",
+      "endDate": "2019",
+      "summary": "Volunteered for various community projects",
+      "highlights": [
+        "Elementary School STEM Nights",
+        "Supervise elementary school students after school",
+        "Beach Clean Ups",
+        "Bell Ringing for Salvation Army"
+        ]
     }
   ],
   "awards": [
+    {
+      "title": "Dean's List",
+      "date": "2020 - Present",
+      "awarder": "University of Hawaii",
+      "summary": "Awarded to Undergraduate students who earned a semester grade point average of 3.5 or higher based on 12 or more credits"
+    },
     {
       "title": "B+ Scholarship",
       "date": "2019-Present",
@@ -138,12 +144,6 @@
       "date": "2019 - Present",
       "awarder": "University of Hawaii Bands",
       "summary": "Awarded to UH Manoa Students who are registered for UH Marching Band and one of the three UH concert bands"
-    },
-    {
-      "title": "Dean's List",
-      "date": "2020 - Present",
-      "awarder": "University of Hawaii",
-      "summary": "Awarded to Undergraduate students who earned a semester grade point average of 3.5 or higher based on 12 or more credits"
     },
     {
       "title": "Garden Island Federal Credit Union Scholarship",
