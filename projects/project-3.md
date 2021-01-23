@@ -15,7 +15,7 @@ labels:
 summary: A simple to-do list extension for Google Chrome. 
 ---
 
-<img class="ui medium right floated rounded image" src="../images/to-do-list-apps.png">
+<img class="ui medium right floated rounded image" src="../images/todo.png">
 
 I created a simple to-do list extension for Google Chrome. I decided to go with creating a chrome extension because there are many sources and tutorials to get started. The idea of a to-do list came to mind when I found myself losing the piece of paper of where I write my tasks down for the day. Although there are many to-do list extensions in the Chrome Web Store, I wanted to learn new things, such as Javascript, HTML, and CSS. I also took this oppurtunity as the chance to prepare for ICS 314 as the class teaches Javascript.
 
