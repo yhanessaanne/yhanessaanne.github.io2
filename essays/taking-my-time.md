@@ -26,7 +26,7 @@ If someone were to ask college freshman Yhanessa why she chose to be a computer 
 
 And that’s how I very plainly ended up declaring my computer science major at the University of Hawai’i at Manoa.
 
-## Maintaining my new commitment:
+## Maintaining my new commitment
 
 The first couple of weeks of my Java introductory class, I felt pressured that my peers already knew how to code while I was still trying my hardest to grasp on to the concept of loops. A  sense of discouragement led me to a series of conflicting thoughts about changing majors because it seemed like I was behind and will never catch up to everyone else. The main question of  “Why did you choose computer science?” would flood my mind on my off-days. The answer was still unknown to me at the time. Fast forward, I went through the rest of my ICS classes on autopilot - doing the work just to do it.
 
@@ -34,7 +34,7 @@ The first couple of weeks of my Java introductory class, I felt pressured that m
 
 I did lots of self reflecting on how cloudy my mind was during the stay at home order at where I live. I remembered the time consuming programming I did, then I realized that there is nothing wrong with telling myself that it’s okay to take my time. I used to drain my thoughts on the notion of comparing my progress to everyone else’s. I learned that dreading onto my negative mindsets was the main reason why I was behind. I also acquired the knowledge that there is no absolutely no rush to decide what path I want to pursue. With all that self-reflection, I am now able to focus on improving myself and my skills. It helped me put on the right track of focusing on exploring things I want to do in the future. 
 
-## The Future: 
+## The Future
 
 I’m open to software engineering being a possible option for me to go after as I am interested in learning how software development works and possibly creating an application that is useful to everyone.  I’m also interested in user interface and user experience design to help further improve softwares. Web development likes to pop in my thoughts sometimes. Cyber security has also been on my mind for a while now, but to be honest I have my doubts there. I just want to try a lot of new things while in the search for my strong suit.
 
