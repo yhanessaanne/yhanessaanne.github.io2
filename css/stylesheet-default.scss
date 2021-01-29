@@ -8,19 +8,18 @@
 
 // Default background color
 body {
-  background: linear-gradient(to bottom right, lightskyblue, whitesmoke);
+  background: #90EE90;
 }
 
 // Default menubar color
 .ui.menu {
-  background: lightskyblue;
+   background: lighten(silver, 10%);
 }
 
 // Default home page icon color
 .icon-color {
-  color: darken(lightsteelblue, 20%);
+  color: darken(silver, 40%);
 }
-
 
 // Prefer space between list items in screen mode.
 .list-padding {
