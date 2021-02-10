@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Give Coding Standards a Chance
+title: Give Coding Standards A Chance
 # All dates must be YYYY-MM-DD format!
 date: 2021-02-09
 labels:
