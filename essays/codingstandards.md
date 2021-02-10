@@ -9,7 +9,7 @@ labels:
   - Coding Standards
   - IDE
 ---
-<img class="ui tiny left circular floated image" src="../images/codingstands.jpeg">
+<img class="ui tiny left circular floated image" src="../images/codingstands.jpg">
 
 I consider myself a beginner when it comes to programming as I still make a lot of small careless mistakes. When I look back at my old assignments and projects from my intro to Java class, I cringe for letting myself comment on almost every line of code, have incorrect indentations, brackets at the start of each line, unnecessary line spaces, and many more that violate basic coding standards. I remember the frustration of trying to figure out where the missing bracket was supposed to be placed. Overtime, I was introduced to code analysis tools to help me fix my disorganization.
 
