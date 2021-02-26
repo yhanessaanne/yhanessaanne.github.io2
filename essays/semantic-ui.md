@@ -41,8 +41,6 @@ there I can further manipulate the menu bar's color, size, or add dropdowns with
     <div class="ui segment"><img class="ui floated image" src="uibrowserhistory.png" alt="browserhistorywithSemantic">
     With Semantic UI</div>
   </div>
-</div>
-</div>
 
 ## Takeaways
 
