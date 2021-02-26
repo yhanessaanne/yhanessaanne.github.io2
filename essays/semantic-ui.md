@@ -19,7 +19,7 @@ to code everything in raw HTML and CSS every time they worked on a project. Alth
 frameworks have caught the attention of most.
 
 ## My Experience
-<img class="ui medium left floated image" src="../images/semanticui.png">
+<img class="ui medium left floated image" src="../images/devices.png">
 I was introduced to Semantic UI, a framework, just last week. I had to go through an extensive five hours of an introductory course by Nate Taylor on Pluralsight. I was eager to
 learn at the beginning, but to be honest, after watching the first 30 minutes, the videos became background noise while I was working on something else. I was able to grasp some
 key concepts such as containers, images, menus, and that’s about it. This was because I was on a time constraint and wanted to finish as soon as possible. I made sense of the
@@ -54,7 +54,7 @@ that problem. Shorter code means less bugs and/or easier time debugging. The use
 read. Ultimately, using Semantic UI saves a lot of time and is more work-efficient, while giving your web page a professional and attractive appearance.
 
 ## Final Thoughts
-
+<img class="ui medium left floated image" src="../images/semanticui.png">
 While Semantic UI is an appealing and compelling implementation to web design, it raises the questions of, “Do I truly know how to use HTML and CSS? Do I have the
 capabilities of producing a well thought out website without a framework?” Formulating a full and immediate response is not much of a concern right now because I'm still a fair
 beginner. Although, I do believe that as long as I know the necessary basic knowledge of HTML and CSS, I should be allowed to take advantage of Semantic UI and other alike tools
