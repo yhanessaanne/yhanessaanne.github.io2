@@ -19,7 +19,7 @@ to code everything in raw HTML and CSS every time they worked on a project. Alth
 frameworks have caught the attention of most.
 
 ## My Experience
-
+<img class="ui medium left floated image" src="../images/semanticui.png">
 I was introduced to Semantic UI, a framework, just last week. I had to go through an extensive five hours of an introductory course by Nate Taylor on Pluralsight. I was eager to
 learn at the beginning, but to be honest, after watching the first 30 minutes, the videos became background noise while I was working on something else. I was able to grasp some
 key concepts such as containers, images, menus, and that’s about it. This was because I was on a time constraint and wanted to finish as soon as possible. I made sense of the
