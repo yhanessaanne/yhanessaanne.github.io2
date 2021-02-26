@@ -29,7 +29,7 @@ fact that my passive learning would have a negative impact on my next few assign
 
 This is because Semantic UI emphasizes their most well-known feature: using natural English language. This means that it uses common syntax and simple phrases to simply create
 what you want. For example, if I wanted to create a four item menu bar, I could simply type: <code class="language-plaintext highlighter-rouge">ui four item menu</code>. And from
-there I can further manipulate the menu bar's 'color, size, or add dropdowns with Semantic UI. The results give you a clean polished look without starting from scratch.
+there I can further manipulate the menu bar's color, size, or add dropdowns with Semantic UI. The results give you a clean polished look without starting from scratch.
 
 ## Takeaways
 
