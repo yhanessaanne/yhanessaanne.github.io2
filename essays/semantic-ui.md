@@ -33,13 +33,15 @@ there I can further manipulate the menu bar's color, size, or add dropdowns with
 
 <div class="ui two column grid container">
   <div class="column">
-    <div class="ui segment"><img class="ui floated image" alt="Raw" src="browserhistory1.png">
+    <div class="ui segment"><img class="ui floated image" src="browserhistory1.png" alt="rawbrowserhistory">
     Raw HTML and CSS</div>
   </div>
+  </div>
   <div class="column">
-    <div class="ui segment"><img class="ui floated image" alt="Semantic" src="uibrowserhistory.png">
+    <div class="ui segment"><img class="ui floated image" src="uibrowserhistory.png" alt="browserhistorywithSemantic">
     With Semantic UI</div>
   </div>
+</div>
 </div>
 
 ## Takeaways
