@@ -31,6 +31,17 @@ This is because Semantic UI emphasizes their most well-known feature: using natu
 what you want. For example, if I wanted to create a four item menu bar, I could simply type: <code class="language-plaintext highlighter-rouge">ui four item menu</code>. And from
 there I can further manipulate the menu bar's color, size, or add dropdowns with Semantic UI. The results give you a clean polished look without starting from scratch.
 
+<div class="ui two column grid container">
+  <div class="column">
+    <div class="ui segment"><img class="ui floated image" alt="Raw" src="browserhistory1.png">
+    Raw HTML and CSS</div>
+  </div>
+  <div class="column">
+    <div class="ui segment"><img class="ui floated image" alt="Semantic" src="uibrowserhistory.png">
+    With Semantic UI</div>
+  </div>
+</div>
+
 ## Takeaways
 
 Like everything else in life, learning to master a skill takes time and effort, no matter how simple it may seem. I don’t want to encourage someone to use Semantic UI because it
