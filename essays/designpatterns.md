@@ -20,6 +20,7 @@ In my software engineering class, we are being introduced to design patterns. As
 <img class="ui medium left floated image" src="../images/devices.png">
 I’m sure that everyone has analyzed some piece of artwork on the basic level without knowing it. For example, color plays a big role in creating a piece. We associate the color red with either anger or love. This is because the color red radiates such intensity which is why it is associated with strong and bold emotions such as anger or love. Thus, red is used to represent such things in many artworks in order to successfully display these emotions. 
 
+
 Likewise, I did not realize that I’ve been utilizing a few design patterns in my current web application project. In my current project, my group and I have been exposed to prototype, model-view-controller, and observer, which happens to be design patterns that are already specific to Javascript and Meteor. Outside of those two, our project also implements the use of singleton and factory design patterns.
 
 
