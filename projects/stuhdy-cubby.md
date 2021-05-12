@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/ics314p1.png
+image: images/final_landing.png
 title: stUHdy Cubby
 permalink: projects/stuhdycubby
 # All dates must be YYYY-MM-DD format!
