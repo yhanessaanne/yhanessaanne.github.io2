@@ -54,7 +54,9 @@
         "Java",
         "Javascript",
         "HTML",
-        "CSS"
+        "CSS",
+        "Meteor",
+        "Semantic UI"
       ]
     },
     {
@@ -62,6 +64,7 @@
       "level": "",
       "keywords": [
         "Windows",
+        "Mac",
         "Eclipse",
         "Git/GitHub",
         "Unix",
@@ -81,8 +84,8 @@
         "Intro to Computer Science I & II (ICS 111 & ICS 211)",
         "Discrete Math for CS I & II (ICS 141 & ICS 241)",
         "Program Structure (ICS 212)",
-        "Software Engineering (ICS 314 in progress)",
-        "Algorithms (ICS 311 in progress)"
+        "Software Engineering (ICS 314)",
+        "Algorithms (ICS 311)"
       ]
     }
   ],
@@ -102,14 +105,6 @@
       "startDate": "2019",
       "endDate": "Present",
       "summary": "Play Clarinet of different genres/styles of music",
-    },
-    {
-      "organization": "UserTesting",
-      "website": "https://www.usertesting.com/",
-      "position": "Tester",
-      "startDate": "2019",
-      "endDate": "Present",
-      "summary": "Test and provide feedback and review on a company's website or app. I have to share my thoughts and opinions to help further improve the company's user experience",        
     },
     {
       "organization": "Key Club International",
