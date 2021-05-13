@@ -27,3 +27,5 @@ My group consisted of myself and two other people. My contribution to this group
 
 ## Takeaways
 Creating this web application forced me to remember everything I learned from the beginning of my software engineering class and apply all of that into this one project. One of them was IDPM. It taught me that any large project can be tackled when it is broken down into smaller parts. During this project, it reminded me how much I have forgotten about the usefulness of underscore. Because of this, I had to re-learn underscore and their uses. I also was able to strengthen my familiarity with Semantic UI and Meteor. 
+
+Our <a href="https://github.com/stuhdy-cubby">Organization GitHub Page</a>
