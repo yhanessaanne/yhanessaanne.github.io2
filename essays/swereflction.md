@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Loo
+title: Ending a Chapter to Begin a New One
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-11
 labels:
@@ -30,7 +30,7 @@ Teamwork is nothing without some sort of agile project management, which is a wa
 
 Although not direct, marching band is an example beyond web application development that uses a version of agile project management. We prepare for a halftime show for every football game. Learning a new show every week was very intimidating to me at first, but I realized how helpful it was to divide up each show into sections and have a goal for each practice. Then at the end of the week, an entertaining performance was ready for the audience.
 
-## Now What?
+## What's Next?
 
 This athletic software engineering experience was indeed a rigorous one. I had to develop a stable study schedule for this class so that I don’t fall behind, which is also a lesson that can be applied to many other things. This course and teaching style has definitely opened up my eyes to software engineering as a possible career, considering the fact I still have no idea what path I want to take in the world of computer science. Ultimately, I hope to strengthen and enhance my newly obtained knowledge and skills.
 
