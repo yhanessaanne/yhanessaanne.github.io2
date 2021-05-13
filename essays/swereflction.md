@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: swe essay
+title: Loo
 # All dates must be YYYY-MM-DD format!
 date: 2021-05-11
 labels:
@@ -10,9 +10,9 @@ labels:
   - Reflection
 ---
 
-## 
+## Software Engineering Lessons
 
-In the span of these past five months, I felt like there were many foreign software engineering concepts and techniques that were thrown at me all at once. But somehow, with the guidance of the two ICS 314 professors and the teaching assistant, I was able to get through it. I feared that my laziness and habit of procrastination would get in the way of being successful in the class, but I was able to overcome it. I think the main thing that made this course an excellent experience, was my eagerness to learn more due to the hands-on assignments. Although the skills I acquired in this course were mostly applied to web applications, I believe that I will also use these skills beyond that and utilize them in whatever I do in life.
+In the span of these past five months, I felt like there were many foreign software engineering concepts and techniques that were thrown at me all at once. But somehow, with the guidance of the two ICS 314 professors and the teaching assistant, I was able to get through it. I feared that my laziness and habit of procrastination would get in the way of being successful in the class, but I was able to overcome it. I think the main thing that made this course an excellent experience was my eagerness to learn more due to the hands-on assignments. Although the skills I acquired in this course were mostly applied to web applications, I believe that I will also use these skills beyond that and utilize them in whatever I do in life.
 
 ## Ethics in Software Engineering
 <img class="ui small left floated image" src="../images/ethics.jpeg">
@@ -30,7 +30,7 @@ Teamwork is nothing without some sort of agile project management, which is a wa
 
 Although not direct, marching band is an example beyond web application development that uses a version of agile project management. We prepare for a halftime show for every football game. Learning a new show every week was very intimidating to me at first, but I realized how helpful it was to divide up each show into sections and have a goal for each practice. Then at the end of the week, an entertaining performance was ready for the audience.
 
-## end
+## What to do After
 
 This athletic software engineering experience was indeed a rigorous one. I had to develop a stable study schedule for this class so that I don’t fall behind, which is also a lesson that can be applied to many other things. This course and teaching style has definitely opened up my eyes to software engineering as a possible career, considering the fact I still have no idea what path I want to take in the world of computer science. Ultimately, I hope to strengthen and enhance my newly obtained knowledge and skills.
 
