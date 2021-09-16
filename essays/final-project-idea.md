@@ -1,4 +1,4 @@
----
+/***---
 layout: essay
 type: essay
 title: Final Project Idea
@@ -6,7 +6,7 @@ date: 2021-03-30
 labels:
   - Software Engineering
   - Meteor
----
+---***/
 
 Group members include: Rafael Conrad Abitz, Chase Lee, Jay Paul Luben, Yhanessa Anne Sales
 
