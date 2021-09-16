@@ -91,20 +91,29 @@
       ]
     }
   ],
-  "volunteer": [
+  "work": [
     {
-      "organization": "The Association for Computing Machinery at the University of Hawaii at Manoa (ACM@Manoa)",
-      "website": "https://acmanoa.github.io/",
-      "position": "Member",
-      "startDate": "2020",
+      
+      "company": "Luau Kalamaku",
+      "position": "Receptionist",
+      "website": "https://www.luaukalamaku.com/",
+      "startDate": "2021-06-01",
       "endDate": "Present",
-      "summary": "A computer science student organization open to all majors and experience levels"
-    },
+      "summary": "",
+      "highlights": [
+        "Greet and welcome over 300 guests each work day",
+        "Resolve questions that guests may have",
+        "Validate guest reservation by using FareHarbor,"
+        "Confirming guest arrivals by making phone calls"
+      ]
+    }
+    ],
+  "volunteer": [
     {
       "organization": "University of Hawaii Bands",
       "website": "http://www.uhbands.org/",
       "position": "Member",
-      "startDate": "2019",
+      "startDate": "2020",
       "endDate": "Present",
       "summary": "Play Clarinet of different genres/styles of music",
     },
@@ -138,15 +147,9 @@
     },
     {
       "title": "UH Band Achievement Scholarship",
-      "date": "2019 - Present",
+      "date": "2019 - 2020",
       "awarder": "University of Hawaii Bands",
       "summary": "Awarded to UH Manoa Students who are registered for UH Marching Band and one of the three UH concert bands"
-    },
-    {
-      "title": "Garden Island Federal Credit Union Scholarship",
-      "date": "2019",
-      "awarder": "Garden Island Federal Credit Union",
-      "summary": "Awarded to 3 high school seniors who demonstrated academic achievement and financial need"
     }
   ],
   "references": [
