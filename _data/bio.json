@@ -93,7 +93,19 @@
   ],
   "work": [
     {
-      
+      "company": "Oasis on the Beach",
+      "position": "Busser",
+      "website": "https://oasiskauai.com/",
+      "startDate": "2021-09-04",
+      "endDate": "Present",
+      "summary": "",
+      "highlights": [
+        "Greet and welcome over 300 guests each work day",
+        "Resolve questions that guests may have",
+        "Validate guest reservation by using FareHarbor",
+        "Confirming guest arrivals by making phone calls"
+      ]
+    },
       "company": "Luau Kalamaku",
       "position": "Receptionist",
       "website": "https://www.luaukalamaku.com/",
@@ -101,10 +113,10 @@
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Greet and welcome over 300 guests each work day",
-        "Resolve questions that guests may have",
-        "Validate guest reservation by using FareHarbor,"
-        "Confirming guest arrivals by making phone calls"
+        "Prepare dining room by setting up plates, cups, and silverware",
+        "Multitask in a fast pace environment and under pressure",
+        "Support waiters/waitresses",
+        "Ensure a clean table for all guests"
       ]
     }
     ],
