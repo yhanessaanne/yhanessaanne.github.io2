@@ -6,7 +6,7 @@
     "email": "ysales@hawaii.edu",
     "phone": "",
     "website": "https://yhanessaanne.github.io",
-    "summary": "I am studying for a B.A.in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2023.",
     "location": {
       "address": "",
       "postalCode": "96766",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "name": "Cyber Security",
+      "name": "UI/UX Design",
       "keywords": [
       ]
     }
@@ -65,11 +65,10 @@
       "level": "",
       "keywords": [
         "Windows",
-        "Mac",
+        "MacOS",
         "Eclipse",
         "Git/GitHub",
         "Unix",
-        "Visual Studio Code",
         "IntelliJ"
       ]
     }
@@ -87,7 +86,9 @@
         "Discrete Math for CS I & II (ICS 141 & ICS 241)",
         "Program Structure (ICS 212)",
         "Software Engineering (ICS 314)",
-        "Algorithms (ICS 311)"
+        "Algorithms (ICS 311)",
+        "Database Systems I (ICS 321)",
+        "Machine Level & Systems Programming (ICS 312)"
       ]
     }
   ],
