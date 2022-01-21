@@ -22,8 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "yhanessa-anne-sales-376931203",
-        "url": "https://www.linkedin.com/in/yhanessa-anne-sales-376931203/"
+        "username": "ysales",
+        "url": "https://www.linkedin.com/in/ysales/"
       }
     ]
   },
@@ -98,27 +98,27 @@
       "position": "Busser",
       "website": "https://oasiskauai.com/",
       "startDate": "2021-09-04",
-      "endDate": "Present",
+      "endDate": "2021-12-18",
       "summary": "",
        "highlights": [
-        "Prepare dining room by setting up plates, cups, and silverware",
-        "Multitask in a fast pace environment and under pressure",
-        "Support waiters/waitresses",
-        "Ensure a clean table for all guests"
+        "Greet newly seated guests to offer water",
+        "Support waitstaff to ensure the satisfaction of guests",
+        "Ensure a clean and sanitized table after guests' departure",
+        "Multitask in a fast pace environment by cleaning and setting tables in a timely manner while performing side tasks"
       ]
     },
     {
       "company": "Luau Kalamaku",
-      "position": "Receptionist",
+      "position": "Cashier",
       "website": "https://www.luaukalamaku.com/",
       "startDate": "2021-06-01",
-      "endDate": "Present",
+      "endDate": "2022-01-06",
       "summary": "",
        "highlights": [
-        "Greet and welcome over 300 guests each work day",
-        "Resolve questions that guests may have",
-        "Validate guest reservation by using FareHarbor",
-        "Confirming guest arrivals by making phone calls"
+        "Greet and welcome over 600 guests each work day",
+        "Assess guest needs in a timely manner and provide solutions",
+        "Validate guest reservations by using an online booking software called FareHarbor",
+        "Manage guest arrivals through phone calls"
       ]
     }
     ],
@@ -126,26 +126,18 @@
     {
       "organization": "University of Hawaii Bands",
       "website": "http://www.uhbands.org/",
-      "position": "Member",
+      "position": "Clarinet Member",
       "startDate": "2019",
-      "endDate": "2021",
-      "summary": "Play Clarinet of different genres/styles of music",
-    },
-    {
-      "organization": "Key Club International",
-      "website": "https://www.keyclub.org/",
-      "position": "Member",
-      "startDate": "2017",
       "endDate": "2019",
-      "summary": "Volunteered for various community projects",
+      "summary": "",
       "highlights": [
-        "Elementary School STEM Nights",
-        "Supervise elementary school students after school",
-        "Beach Clean Ups",
-        "Bell Ringing for Salvation Army"
-        ]
+        "Rehearse 4.5 hours each week to deliver entertaining halftime shows at football games",
+        "Attentive at all times to the conductor as they use non-verbal and visual cues",
+        "Learned dedication and self-discipline to ensure successful performance of the 200+ member band",
+        "Multitask by playing an instrument and marching to memorized music and drills"
+      ]
     }
-  ],
+    ],
   "awards": [
     {
       "title": "Dean's List",
@@ -159,12 +151,6 @@
       "awarder": "State of Hawaii",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
-    {
-      "title": "UH Band Achievement Scholarship",
-      "date": "2019 - 2020",
-      "awarder": "University of Hawaii Bands",
-      "summary": "Awarded to UH Manoa Students who are registered for UH Marching Band and one of the three UH concert bands"
-    }
   ],
   "references": [
     {
