@@ -94,6 +94,33 @@
   ],
   "work": [
     {
+      "company": "Royal Sonesa Kauai Resort",
+      "position": "Banquet Server",
+      "website": "https://www.sonesta.com/royal-sonesta/hi/lihue/royal-sonesta-kauai-resort-lihue",
+      "startDate": "2022-06-27",
+      "endDate": "2022-08-06",
+      "summary": "",
+       "highlights": [
+        "Greeted and welcomed guests as they enter the venue",
+        "Assisted with event preparation, set up, and closing by following a set of instructionss",
+        "Responded to guests’ questions, complaints, and requests in a timely manner"
+      ]
+    },
+    {
+      "company": "Luau Kalamaku",
+      "position": "Cashier",
+      "website": "https://www.luaukalamaku.com/",
+      "startDate": "2021-06-01",
+      "endDate": "2022-08-05",
+      "summary": "",
+       "highlights": [
+        "Greet and welcome over 600 guests each work day",
+        "Assess guest needs in a timely manner and provide solutions",
+        "Validate guest reservations by using an online booking software called FareHarbor",
+        "Manage guest arrivals through phone calls"
+      ]
+    },
+    {
       "company": "Oasis on the Beach",
       "position": "Dining Room Busser",
       "website": "https://oasiskauai.com/",
@@ -106,20 +133,6 @@
         "Ensure a clean and sanitized table after guests' departure",
         "Multitask in a fast-paced environment by cleaning and setting tables in a timely manner while performing side tasks"
       ]
-    },
-    {
-      "company": "Luau Kalamaku",
-      "position": "Cashier",
-      "website": "https://www.luaukalamaku.com/",
-      "startDate": "2021-06-01",
-      "endDate": "2022-01-06",
-      "summary": "",
-       "highlights": [
-        "Greet and welcome over 600 guests each work day",
-        "Assess guest needs in a timely manner and provide solutions",
-        "Validate guest reservations by using an online booking software called FareHarbor",
-        "Manage guest arrivals through phone calls"
-      ]
     }
     ],
   "volunteer": [
@@ -128,7 +141,7 @@
       "website": "http://www.uhbands.org/",
       "position": "Clarinet Member",
       "startDate": "2019",
-      "endDate": "2019",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
         "Rehearse 4.5 hours each week to deliver entertaining halftime shows at football games",
